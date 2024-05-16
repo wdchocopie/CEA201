@@ -3,7 +3,7 @@
    * Shrink logic gate size
       * More gates, packed more tightly, increasing clock rate
       * Propagation\(lan truyền\) time for signal reduced
-* Increased size and speed of cachesa
+* Increased size and speed of caches
    * Dedicating part of processor chip
       * Cache access times drop
 * Change processor organization and architecture
